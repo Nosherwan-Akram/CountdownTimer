@@ -3579,9 +3579,9 @@ decamelize@^1.2.0:
   integrity sha1-9lNNFRSCabIDUue+4m9QH5oZEpA=
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
-  integrity sha1-6zkTMzRYd1y4TNGh+uBiEGu4dUU=
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
+  integrity sha512-FqUYQ+8o158GyGTrMFJms9qh3CqTKvAqgqsTnkLI8sKu0028orqBhxNMFkFen0zGyg6epACD32pjVk58ngIErQ==
 
 deep-equal@^1.0.1:
   version "1.1.1"
@@ -8590,6 +8590,11 @@ react-app-polyfill@^1.0.6:
     raf "^3.4.1"
     regenerator-runtime "^0.13.3"
     whatwg-fetch "^3.0.0"
+
+react-blink-text@^1.0.5:
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/react-blink-text/-/react-blink-text-1.0.5.tgz#8e7af0701d998ced0c0aafcbfa7f8e171b08ceb7"
+  integrity sha512-mcexEyw3lvIqONpW4Z17sENXuR0Zydv/kWaCSyM0wA2yyxjSzAnlfiljYNAS3CGN7JH849GCKDvJn1rFaIvzqQ==
 
 react-dev-utils@^10.2.1:
   version "10.2.1"
